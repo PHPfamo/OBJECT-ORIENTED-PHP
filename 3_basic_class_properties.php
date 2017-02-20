@@ -15,6 +15,16 @@ class Car {
 
 	*/
 
+	public $type, $color, $manufacturer, $numberOfDoors;
+
+	/*
+		This is also good practice if you consider to 
+		place public for ebove mentioned properties, 
+		same thing, less typing DRY (don't repeat your self)
+
+		*/
+
+
 
 }
 
