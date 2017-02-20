@@ -3,10 +3,10 @@
 
 class Car {
 
-	public $type='cabrio';
+	/*public $type='cabrio';
 	public $color='black';
 	public $manufacturer='bmw';
-	public $numberOfDoors=4;
+	public $numberOfDoors=4;*/
 
 
 	/*
