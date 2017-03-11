@@ -10,7 +10,7 @@ class MakeString{
 	}
 
 	public function StringB(){
-		$this->string.='Mulahalilović';
+		$this->string.=' Mulahalilović';
 
 		return $this;
 	}
