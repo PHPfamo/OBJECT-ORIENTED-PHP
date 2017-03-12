@@ -18,7 +18,7 @@ class Person {
 	Take a look at code below:
 	*/ 
 
-	public function GetInfo(){ //Public method that can be used outside of class
+	public function GetInfo(){ //Public method that can be used outside of class.
 		echo "Hi! my name is ".$this->name;
 	}
 }
